@@ -14,7 +14,7 @@ FOR THOSE WHO LOST AND CANNOT FIND
     AN OPPORTUNITY
 MAY BE EVERYTHING!"
 
-### FIRST MINUTES (ongoing)
+### FIRST MINUTES (On going)
 Keep a good pace in the presentation of new information.
 Inform and keep the player entertained.
 
@@ -25,44 +25,119 @@ Inform and keep the player entertained.
 ![Entity Flow](http://i.imgur.com/p7SsxkW.png)
 
 
-Alchemist hired Mercenaries
+* Alchemist hired Mercenaries
 
-Mercenaries Travels on Missions/Campaigns
+* Mercenaries Travels on Missions/Campaigns
 
-Mercenaries Retrieves Ingredients/Knowledge
+* Mercenaries Retrieves Ingredients/Knowledge
 
-Alchemist uses Knowledge/Ingredients
+* Alchemist uses Knowledge/Ingredients
 
-Goal reached.
+* Goal reached.
 
 #### SCREENFLOW (On Going)
 
-New Game:
+* New Game
+* Alchemist Screen
+* Control your Inventory
+* Looks for Recipes
+* Prepare Recipes
+* Party Screen
+* Check your Mercenaries Progress
+* Heal, Dismiss, Equip Functions
+* Mercenary-hiring Screen
+* Mission Screen
+* Looks for Missions, Quests and Campaigns
 
-Alchemist Screen
+### VICTORY CONDITIONS
 
-Control your Inventory
+* Obtain all recipes
+* DEFEAT CONDITIONS
+* Lost all money and all mercenaries (Impossibility to gain income)
 
-Looks for Recipes
+### GAME ELEMENTS
+* Player
+* Alchemist
+* Party
+* Mercenaries
+* Missions
+* Enemies
 
-Prepare Recipes
+### PROTOTYPE
+* StoriesOnBoard.com:  [https://vencedores.storiesonboard.com/](https://vencedores.storiesonboard.com/)
+* MarvelApp(Prototype): [https://marvelapp.com/project/904355](https://marvelapp.com/project/904355)
 
-Party Screen
+COMPETITORS
+Epic Tavern
 
-Check your Mercenaries Progress
+INSPIRATIONS
+Kobold Press
+The Kobold Guide to Worldbuilding
 
-Heal, Dismiss, Equip Functions
+Holly Lisle
+How to Create a Language Clinic
+How to Create a World Clinic
+How to Create a Culture Clinic
+How to Create a Character Clinic
+How to Create a Plot Clinic
+How to Start a Novel
 
+Mark Rosenfelder
+The Language Construction Kit
+The Planet Construction Kit
+
+Roleplay Settings
+FATE
+Pathfinder
+D&D
+Eclipse Phase
+
+Reddit
+Unearthed Arcana
+Loremasters
+Worldbuilding
+RPG
+Fantasy Writers
+Mapmaking
+World Prompts
+
+Pinterest
+
+credits
+Most of the assets as the menu painels, buttons, icons here were made by Kenney, an game developer/artist based in Germany. All of his work is available under CC0 License.
+Website: Kenney.nl
+For prototypes purposes, we chose to use a cauldron icon of the artist Daniele De Santis, an artist based in Italy.
+Website: DanieleDeSantis.net
+The rest of the assets were made and/or developed our team.
+
+Technical Requirements
+
+Front-End
+Unity? (Javascript/C#)
+2D / Pixel Art Style – Prototype: 2D / Cartoon Style
+Singleplayer
+Mobile/Desktop/Web
+Back-End
+C# ? (.Net)
+Java ?
+Javascript ? ( nodeJS )
+Database:
+SQL – PostgreSQL
+Hoster:
+Digital Ocean:
+1GB / Single-Core / 30GB SSD / 2TB Transfer – 10$
+Linode:
+2GB / Single-Core / 24GB SSD / 2TB Transfer / 40Gbps/125Mbs – 10$
+
+
+Third-Party Software Used (TO KEEP TRACK)
+Sprite Lamp
+Spriter
+PyxelEdit
+
+RELEASES
+
+First ReleasE Batch - Prototype
+Due: 12/09
+Opening Screen
 Mercenary-hiring Screen
-
-Mission Screen
-
-Looks for Missions, Quests and Campaigns
-
-#### VICTORY CONDITIONS
-
-Obtain all recipes
-
-DEFEAT CONDITIONS
-
-Lost all money and all mercenaries (Impossibility to gain income)
