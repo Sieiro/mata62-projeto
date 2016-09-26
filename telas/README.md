@@ -1,6 +1,6 @@
 
-#### This directory is under this structure:
-
+### Screens
+#### Structure
 * First Sprint:
     * Welcome_Screen
         * Screen_01_NewGame.png

@@ -1,1 +1,9 @@
-Adicione aqui os arquivos de diagrama de classes.
+
+### Class Diagram
+
+#### Structure:
+* First Sprint:
+    * Alchemist Class Diagram.vdx
+    * Alchemist Class Diagram - ERD.png
+    * Alchemist Class Diagram - ERD.svg
+    
