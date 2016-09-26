@@ -22,7 +22,7 @@ Inform and keep the player entertained.
 
 ### ENTITY FLOW
 
-![Entity Flow](/.../mata62-projeto/flowchat.png?raw=true)
+![Entity Flow](http://i.imgur.com/p7SsxkW.png)
 
 Alchemist hired Mercenaries
 Mercenaries Travels on Missions/Campaigns
