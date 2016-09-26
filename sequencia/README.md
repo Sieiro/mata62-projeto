@@ -1,1 +1,7 @@
-Adicione aqui os arquivos de diagrama de sequência.
+### Sequence Diagram
+
+#### Structure:
+* First Sprint:
+    * Alchemist Sequence Diagram.vdx
+    * Alchemist Sequence Diagram.png
+    * Alchemist Sequence Diagram.svg
