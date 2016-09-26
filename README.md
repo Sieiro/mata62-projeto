@@ -1,3 +1,4 @@
+<img src="http://i.imgur.com/Xx5lX0j.jpg" align=right />
 # Alchemist - Game Design Document
 
 ## Project Requirements and Overview
