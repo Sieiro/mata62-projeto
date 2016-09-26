@@ -58,3 +58,11 @@ Mercenary-hiring Screen
 Mission Screen
 
 Looks for Missions, Quests and Campaigns
+
+#### VICTORY CONDITIONS
+
+Obtain all recipes
+
+DEFEAT CONDITIONS
+
+Lost all money and all mercenaries (Impossibility to gain income)
