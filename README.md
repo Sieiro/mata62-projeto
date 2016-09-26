@@ -20,12 +20,41 @@ Inform and keep the player entertained.
 
 ### GAMEFLOW
 
-### ENTITY FLOW
+#### ENTITY FLOW
 
 ![Entity Flow](/.../mata62-projeto/flowchat.png?raw=true)
 
+
 Alchemist hired Mercenaries
+
 Mercenaries Travels on Missions/Campaigns
+
 Mercenaries Retrieves Ingredients/Knowledge
+
 Alchemist uses Knowledge/Ingredients
+
 Goal reached.
+
+#### SCREENFLOW (On Going)
+
+New Game:
+
+Alchemist Screen
+
+Control your Inventory
+
+Looks for Recipes
+
+Prepare Recipes
+
+Party Screen
+
+Check your Mercenaries Progress
+
+Heal, Dismiss, Equip Functions
+
+Mercenary-hiring Screen
+
+Mission Screen
+
+Looks for Missions, Quests and Campaigns
