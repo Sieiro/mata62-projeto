@@ -118,6 +118,10 @@ For prototypes purposes, we chose to use a cauldron icon of the artist Daniele D
 
 > Website: [DanieleDeSantis.net](DanieleDeSantis.net)
 
+For prototype purposes, we used potions vectors and .png, as called as potion by Lee Mette from the Noun Project.
+
+> Website: [https://thenounproject.com/leemette/](https://thenounproject.com/leemette/)
+
 The rest of the assets were made and/or developed our team.
 
 ### Technical Requirements
