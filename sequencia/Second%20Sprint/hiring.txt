@@ -1,0 +1,35 @@
+@startuml
+
+Jogador -> HiringScreen: setupScreen
+activate HiringScreen
+participant Mercenary
+HiringScreen -> Game: fetchMercenaryList
+HiringScreen <- Game: Mercenary[]
+activate Mercenary
+HiringScreen -> MercenaryPanel: setupPanel(list)
+activate MercenaryPanel
+loop para cada mercenário
+  MercenaryPanel -> Mercenary: check isAvailable
+  alt se está disponível
+    MercenaryPanel -> Mercenary: obtem todos os dados
+  end
+end
+
+Jogador -> MercenaryPanel: purchaseMercenary
+MercenaryPanel -> Mercenary: Checa custo
+MercenaryPanel -> Game: Checa se tem dinheiro
+MercenaryPanel -> Mercenary: Checa se está disponível
+alt pode comprar
+  MercenaryPanel -> Game: Adiciona mercenário
+else não pode comprar
+  MercenaryPanel -> HiringScreen: Mostra alerta
+end
+
+MercenaryPanel -> HiringScreen: Fecha painel
+deactivate Mercenary
+deactivate MercenaryPanel
+
+HiringScreen -> Jogador: Fecha tela
+deactivate HiringScreen
+
+@enduml
