@@ -9,4 +9,8 @@
 * Second Sprint
     * Alchemist Class Diagram.vdx
     * Alchemist Class Diagram - ERD.png
-    * Alchemist Class Diagram - ERD.svg  
+    * Alchemist Class Diagram - ERD.svg
+* Third Sprint
+    * Alchemist Class Diagram.vdx
+    * Alchemist Class Diagram - ERD.png
+    * Alchemist Class Diagram - ERD.svg
