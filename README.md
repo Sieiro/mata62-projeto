@@ -119,8 +119,15 @@ For prototypes purposes, we chose to use a cauldron icon of the artist Daniele D
 > Website: [DanieleDeSantis.net](DanieleDeSantis.net)
 
 For prototype purposes, we used potions vectors and .png, as called as potion by Lee Mette from the Noun Project.
+We used also a furnace icon by Dan Hetteix from the Noun Project.
 
 > Website: [https://thenounproject.com/leemette/](https://thenounproject.com/leemette/)
+> Website: [https://thenounproject.com/DHETTEIX/](https://thenounproject.com/DHETTEIX/)
+
+For prototype purposes, we used potions vectors and .png icons, by Freepik, Madebyoliver from the flaticon website.
+
+> Website: [http://www.flaticon.com/authors/freepik](http://www.flaticon.com/authors/freepik)
+> Website: [http://www.flaticon.com/authors/madebyoliver](http://www.flaticon.com/authors/madebyoliver)
 
 The rest of the assets were made and/or developed our team.
 
@@ -155,8 +162,3 @@ The rest of the assets were made and/or developed our team.
 ### RELEASES
 
 You can check our [milestones](https://github.com/Sieiro/mata62-projeto/milestones)
-
-#### FIRST RELEASE - Prototype
-Due: 12/09 - 25/09
-* Opening Screen
-* Mercenary-hiring Screen
