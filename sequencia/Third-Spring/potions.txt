@@ -1,0 +1,27 @@
+@startuml
+
+Jogador -> AlchemyScreen: setupScreen
+activate AlchemyScreen
+AlchemyScreen <- Game: loadTools()
+
+AlchemyScreen -> Tool: new Tool("Alembic")
+activate Tool #salmon
+AlchemyScreen -> Tool: new Tool("Calcinator")
+activate Tool #lightblue
+AlchemyScreen -> Tool: new Tool("Mortar")
+activate Tool #teal
+
+AlchemyScreen <- Game: loadSavedIngredients()
+
+loop o jogador quiser criar poções
+  Jogador -> Ingredient: pega ingredientes
+  Jogador -> Tool: coloca ingrediente em tools
+  alt combinação é válida
+    Tool -> Jogador: produz Potion
+  else não é válida
+    Tool -> Jogador: produz nada
+    Tool -> Ingredient: devolve ingredientes
+  end
+end
+
+@enduml
